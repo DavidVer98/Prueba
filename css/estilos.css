@@ -38,3 +38,13 @@ body
     float:right;
     margin-top: -10px;
 }
+#footer{
+    background:rgb(94, 94, 204) ;
+    color: white;
+  
+    margin:0;
+    padding: 0.9em;
+    font-size: 9px;
+    font-style: italic;
+    text-align: right;
+}
